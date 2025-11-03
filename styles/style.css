@@ -376,7 +376,6 @@
 }
 
 .footer__list-item {
-  gap: 10px;
   color: #ffffff;
   margin-bottom: 16px;
 }
@@ -385,6 +384,7 @@
   color: white;
   text-decoration: none;
   margin-bottom: 16px;
+  gap: 10px;
 }
 
 .footer__social-icon {
